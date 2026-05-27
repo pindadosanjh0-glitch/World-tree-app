@@ -1,0 +1,6 @@
+{
+  "name": "Tree Tracker",
+  "description": "Log your tree planting progress, join conservation drives, and earn green badges for future generations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
